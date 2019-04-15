@@ -1,6 +1,18 @@
 # 视频学习资料
   链接:https://pan.baidu.com/s/1pKZPtt2BzxvplI07_rEatg  密码:ek1e
 
+## 讲解内容如下
+1. 项目创建        
+2. React引入       ️
+3. 组件创建          
+4. 数据传递  
+5. 状态管理
+6. 事件处理       
+7. 条件与列表     
+8. 第三方UI组件      （按需加载还存在问题）
+9. 路由                
+10. Redux 
+
 # 下面是官方文档资料
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
